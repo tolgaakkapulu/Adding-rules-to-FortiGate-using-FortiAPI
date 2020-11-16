@@ -1,4 +1,4 @@
-# Adding-rules-to-Fortinet-using-FortiAPI
+# Adding-rules-to-FortiGate-using-FortiAPI
 
 With the parameters specified in use, the hostname is created in FortiGate and after this hostname is included in the group, the created group is included in the specified policy.
 <br><br>
