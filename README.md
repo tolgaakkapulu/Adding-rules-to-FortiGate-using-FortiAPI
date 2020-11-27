@@ -3,7 +3,9 @@
 With the parameters specified in use, the hostname is created in FortiGate and after this hostname is included in the group, the created group is included in the specified policy.
 <br><br>
 <b>Installation</b>
-- pip install pyfortiapi && git clone https://github.com/jsimpso/PyFortiAPI && python3 PyFortiAPI/setup.py install
+- pip install pyfortiapi
+- git clone https://github.com/jsimpso/PyFortiAPI
+- python3 PyFortiAPI/setup.py install
 - echo "FORTI_USERNAME FORTI_PASSWORD" > FILE_PATH
   
 <b>Usage</b>
